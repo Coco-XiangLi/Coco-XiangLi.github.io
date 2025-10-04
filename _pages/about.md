@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a doctoral student majoring in Software Engineering at University College London and am currently engaged in research related to deep learning and software engineering. My research interests mainly focus on fields such as computer vision, natural language processing, and the application of AI Agents.
+I am a doctoral student majoring in Software Engineering at [University College London](https://www.ucl.ac.uk/), co-supervised by [Dr. He Ye](https://heye.me/) and [Prof. Federica Sarro](http://www0.cs.ucl.ac.uk/staff/F.Sarro/). I'm currently engaged in research related to deep learning and software engineering. My research interests mainly focus on fields such as computer vision, natural language processing, and the application of AI Agents.
 
 In the past few years, I have focused on developing new deep learning algorithms to solve practical problems, particularly making progress in multi-modal generation. I believe that artificial intelligence technology can bring positive changes to society and am committed to combining theoretical research with practical applications.
 
@@ -32,18 +32,43 @@ My research interest includes multimodal learning, cross-domain transfer and AI 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/soccercomment.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MultiModal Large Language Model with RAG Strategies in Soccer Commentary Generation.](https://openaccess.thecvf.com/content/WACV2025/papers/Li_Multi-Modal_Large_Language_Model_with_RAG_Strategies_in_Soccer_Commentary_WACV_2025_paper.pdf)
+[MultiModal Large Language Model with RAG Strategies in Soccer Commentary Generation](https://openaccess.thecvf.com/content/WACV2025/papers/Li_Multi-Modal_Large_Language_Model_with_RAG_Strategies_in_Soccer_Commentary_WACV_2025_paper.pdf)
 
 **Xiang Li**, Shuaishuai Zu, Kevin Zhang, et al.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/soccerbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[SCBench: A Sports Commentary Benchmark for Video LLMs](https://arxiv.org/pdf/2412.17637?)
 
+Kuangzhi Ge, Lingjun Chen, Kevin Zhang, Yulin Luo, Tianyu Shi, Liaoyuan Fan, **Xiang Li**, Guanqun Wang, Shanghang Zhang
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/mcre.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MCRE: Multimodal Conditional Representation and Editing for Text Motion Generation](https://dl.acm.org/doi/abs/10.1007/978-3-031-92591-7_26)
+
+Tengjiao Sun, **Xiang Li**, Tianyu Shi, et al.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024</div><img src='images/uniTMGE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Uniform Text-Motion Generation and Editing via Diffusion Model.](https://openreview.net/forum?id=X078V9YU2x)
+
+Ruoyu Wang, **Xiang Li**(Co-first author), Tengjiao Sun, et al.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">European Journal of Agronomy</div><img src='images/MSCP-net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Developing a Deep Learning Network MSCP-Net to Automatically and Accurately Generate Maize Stalk Anatomical Traits Related with Plant Lodging Resistance and Yield.](https://www.sciencedirect.com/science/article/abs/pii/S1161030124002466)
+
+Haiyu Zhou, **Xiang Li**(Co-first author), Yufeng Jiang, et al.
 
 
 
