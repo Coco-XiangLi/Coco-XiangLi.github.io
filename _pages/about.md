@@ -30,6 +30,8 @@ My research interest includes multimodal learning, cross-domain transfer and AI 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+<span class='anchor' id='publications'></span>
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/jmigbench-2.png' alt="JMigBench" width="100%"></div></div>
@@ -129,6 +131,8 @@ Haiyu Zhou, **Xiang Li**(Co-first author), Yufeng Jiang, et al.
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+<span class='anchor' id='educations-work-experience'></span>
 
 # 📖 Educations and Work Experience
 - *2025.10 - present*, University College London, Software Engineering, PhD Student 

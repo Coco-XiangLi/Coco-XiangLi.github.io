@@ -49,15 +49,15 @@
 }
 
 .page__content {
-  #about-me{
+  .anchor {
     margin-top: -10em;
-      &:before { 
-        content: ''; 
-        display: block; 
-        position: relative; 
-        width: 0; 
-        height: 10em; 
-        margin-top: -10em;
+    &:before {
+      content: '';
+      display: block;
+      position: relative;
+      width: 0;
+      height: 10em;
+      margin-top: -10em;
     }
   }
   h1 {
