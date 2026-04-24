@@ -34,17 +34,6 @@ My research interest includes multimodal learning, cross-domain transfer and AI 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/jmigbench-2.png' alt="JMigBench" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[JMigBench: A Benchmark for Evaluating LLMs on Source Code Migration (Java 8 to Java 11)](https://arxiv.org/pdf/2602.09930)
-
-Nishil Amin, Zhiwei Fei, **Xiang Li**, Justyna Petke, He Ye
-
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/heragent.png' alt="HerAgent" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -52,16 +41,34 @@ Nishil Amin, Zhiwei Fei, **Xiang Li**, Justyna Petke, He Ye
 
 **Xiang Li**, Siyu Lu, Federica Sarro, Claire Le Goues, He Ye
 
+*arXiv preprint arXiv:2602.07871, 2026.*
+
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ReCode 2026</div><img src='images/jmigbench-2.png' alt="JMigBench" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[JMigBench: A Benchmark for Evaluating LLMs on Source Code Migration (Java 8 to Java 11)](https://doi.org/10.1145/3786180.3788316)
+
+Nishil Amin, Zhiwei Fei, **Xiang Li**, Justyna Petke, He Ye
+
+*1st Workshop on Code Translation, Transformation, and Modernization (ReCode 2026), co-located with ICSE 2026. ACM.*
+
+</div>
+</div>
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ReCode 2026</div><img src='images/envintheloop_backup.png' alt="Environment-in-the-Loop" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Environment-in-the-Loop: Rethinking Code Migration with LLM-based Agents](https://conf.researchr.org/details/recode26/recode-2026-papers/5/Environment-in-the-Loop-Rethinking-Code-Migration-with-LLM-based-Agents)
+[Environment-in-the-Loop: Rethinking Code Migration with LLM-based Agents](https://doi.org/10.1145/3786180.3788315)
 
-**Xiang Li**, Zhiwei Fei, Ying Ma, Jerry Zhang, Federica Sarro, He Ye
+**Xiang Li**, Zhiwei Fei, Federica Sarro, He Ye
+
+*1st Workshop on Code Translation, Transformation, and Modernization (ReCode 2026), co-located with ICSE 2026. ACM.*
 
 </div>
 </div>
@@ -72,7 +79,9 @@ Nishil Amin, Zhiwei Fei, **Xiang Li**, Justyna Petke, He Ye
 
 [MultiModal Large Language Model with RAG Strategies in Soccer Commentary Generation](https://openaccess.thecvf.com/content/WACV2025/papers/Li_Multi-Modal_Large_Language_Model_with_RAG_Strategies_in_Soccer_Commentary_WACV_2025_paper.pdf)
 
-**Xiang Li**, Shuaishuai Zu, Kevin Zhang, et al.
+**Xiang Li**, Yangfan He, Shuaishuai Zu, Zhengyang Li, Tianyu Shi, Yiting Xie, Kevin Zhang
+
+*IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025.*
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -92,12 +101,14 @@ Kuangzhi Ge, Lingjun Chen, Kevin Zhang, Yulin Luo, Tianyu Shi, Liaoyuan Fan, **X
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/mcre.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV Workshops 2024</div><img src='images/mcre.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MCRE: Multimodal Conditional Representation and Editing for Text Motion Generation](https://dl.acm.org/doi/abs/10.1007/978-3-031-92591-7_26)
 
-Tengjiao Sun, **Xiang Li**, Tianyu Shi, et al.
+Tengjiao Sun, **Xiang Li**, Tianyu Shi, Jiahui Peng, Sheng Zheng, Hansung Kim
+
+*European Conference on Computer Vision (ECCV) Workshops 2024: Foundation Models for 3D Humans (pp. 406–414).*
 
 </div>
 </div>
@@ -108,7 +119,7 @@ Tengjiao Sun, **Xiang Li**, Tianyu Shi, et al.
 
 [Uniform Text-Motion Generation and Editing via Diffusion Model.](https://openreview.net/forum?id=X078V9YU2x)
 
-Ruoyu Wang, **Xiang Li**(Co-first author), Tengjiao Sun, et al.
+Ruoyu Wang, **Xiang Li**(Co-first author), Tengjiao Sun, Yangfan He, Tianyu Shi, Yiting Xie
 
 </div>
 </div>
@@ -119,7 +130,7 @@ Ruoyu Wang, **Xiang Li**(Co-first author), Tengjiao Sun, et al.
 
 [Developing a Deep Learning Network MSCP-Net to Automatically and Accurately Generate Maize Stalk Anatomical Traits Related with Plant Lodging Resistance and Yield.](https://www.sciencedirect.com/science/article/abs/pii/S1161030124002466)
 
-Haiyu Zhou, **Xiang Li**(Co-first author), Yufeng Jiang, et al.
+Haiyu Zhou, **Xiang Li**(Co-first author), Yufeng Jiang, Xiaoying Zhu, Taiming Fu, Mingchong Yang, Weidong Cheng, Xiaodong Xie, Yan Chen, Lingqiang Wang
 
 
 
