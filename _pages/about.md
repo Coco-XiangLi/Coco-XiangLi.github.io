@@ -32,6 +32,39 @@ My research interest includes multimodal learning, cross-domain transfer and AI 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/jmigbench-2.png' alt="JMigBench" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[JMigBench: A Benchmark for Evaluating LLMs on Source Code Migration (Java 8 to Java 11)](https://arxiv.org/pdf/2602.09930)
+
+Nishil Amin, Zhiwei Fei, **Xiang Li**, Justyna Petke, He Ye
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/heragent.png' alt="HerAgent" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HerAgent: Rethinking the Automated Environment Deployment via Hierarchical Test Pyramid](https://arxiv.org/pdf/2602.07871)
+
+**Xiang Li**, Siyu Lu, Federica Sarro, Claire Le Goues, He Ye
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ReCode 2026</div><img src='images/envintheloop_backup.png' alt="Environment-in-the-Loop" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Environment-in-the-Loop: Rethinking Code Migration with LLM-based Agents](https://conf.researchr.org/details/recode26/recode-2026-papers/5/Environment-in-the-Loop-Rethinking-Code-Migration-with-LLM-based-Agents)
+
+**Xiang Li**, Zhiwei Fei, Ying Ma, Jerry Zhang, Federica Sarro, He Ye
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/soccercomment.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
